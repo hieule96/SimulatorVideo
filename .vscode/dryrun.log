@@ -1,0 +1,26 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/ubuntu/Desktop/evalvid-2.7'
+make: Leaving directory '/home/ubuntu/Desktop/evalvid-2.7'
+ 
+make: *** No rule to make target 'bits.o', needed by 'mp4trace'.
+make: *** No rule to make target 'error.o', needed by 'mp4trace'.
+make: *** No rule to make target 'lock.o', needed by 'mp4trace'.
+make: *** No rule to make target 'misc.o', needed by 'mp4trace'.
+make: *** No rule to make target 'queue.o', needed by 'mp4trace'.
+make: *** No rule to make target 'socket.o', needed by 'mp4trace'.
+make: *** No rule to make target 'thread.o', needed by 'mp4trace'.
+make: *** No rule to make target 'timing.o', needed by 'mp4trace'.
+make: *** No rule to make target 'mp4trace.o', needed by 'mp4trace'.
+make: *** No rule to make target 'read.o', needed by 'etmp4'.
+make: *** No rule to make target 'stat.o', needed by 'etmp4'.
+make: *** No rule to make target 'writemp4.o', needed by 'etmp4'.
+make: *** No rule to make target 'etmp4.o', needed by 'etmp4'.
+make: *** No rule to make target 'psnr.o', needed by 'psnr'.
+make: *** No rule to make target 'hist.o', needed by 'hist'.
+make: *** No rule to make target 'dir.o', needed by 'mos'.
+make: *** No rule to make target 'mos.o', needed by 'mos'.
+make: *** No rule to make target 'miv.o', needed by 'miv'.
+make: *** No rule to make target 'random.o', needed by 'eg'.
+make: *** No rule to make target 'eg.o', needed by 'eg'.
+make: *** No rule to make target 'vsgen.o', needed by 'vsgen'.
+ 

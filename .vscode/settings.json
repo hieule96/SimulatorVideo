@@ -1,0 +1,16 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "isomedia.h": "c",
+        "isomedia_dev.h": "c",
+        "constants.h": "c",
+        "media_tools.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "read.h": "c",
+        "stat.h": "c",
+        "writemp4.h": "c",
+        "misc.h": "c",
+        "error.h": "c"
+    }
+}
